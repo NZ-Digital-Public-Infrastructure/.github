@@ -13,9 +13,9 @@ The DPI is managed and operated by the [Government Digital Delivery Agency (GDDA
 The current DPI products are focussed on delivery of identity and credential services. Further products will be added over time to support notifications and secure messaging, payments management, and other core infrastructure capabilities.
 
 Detailed descriptions and technical details of the available products are provided here: 
-* All of Government Digital Credential Issuance Platform (DCIP)
-* Govt.nz app digital wallet
-* NZ Verify app
+* [All of Government Digital Credential Issuance Platform (DCIP)](https://github.com/NZ-Digital-Public-Infrastructure/nz-digital-credential-issuance-platform)
+* [Govt.nz app digital wallet](https://github.com/NZ-Digital-Public-Infrastructure/govt-nz-app-wallet)
+* [NZ Verify app](https://github.com/NZ-Digital-Public-Infrastructure/nz-verify)
 
 ## Digital Credential Overview
 <p align="center" width="100%">
